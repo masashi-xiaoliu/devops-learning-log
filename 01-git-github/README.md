@@ -7,7 +7,7 @@
 
 ## 進捗
 
-**8 / 18 日**
+**9 / 18 日**
 
 | 日 | テーマ | 状態 |
 |---|---|---|
@@ -19,7 +19,7 @@
 | [06](day06.md) | push・pullを使う | 完了 |
 | [07](day07.md) | .gitignoreを理解 | 完了 |
 | [08](day08.md) | branchを作る | 完了 |
-| 09 | branchを切り替える・mergeする | — |
+| [09](day09.md) | branchを切り替える・mergeする | 完了 |
 | 10 | GitHubでPull Requestを作る | — |
 | 11 | Pull Requestをmergeする | — |
 | 12 | Issueを作る | — |
