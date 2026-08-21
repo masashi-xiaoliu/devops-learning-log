@@ -1,0 +1,21 @@
+# 秘密情報 — 絶対にコミットしない
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+*.tfstate
+*.tfstate.*
+
+# ログ・一時ファイル
+*.log
+tmp/
+*.tmp
+
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
+*.swp
